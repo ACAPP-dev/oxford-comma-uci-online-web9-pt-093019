@@ -16,4 +16,4 @@ def oxford_comma(array)
 
 end
 
-p oxford_comma([apple, pear])
+p oxford_comma(["apple", "pear"])
