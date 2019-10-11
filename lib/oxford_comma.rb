@@ -9,7 +9,7 @@ def oxford_comma(array)
   elsif array.size > 2
     return array[0..-2].join(", ") +
     " and " + array[-1]
-    binding.pry
+
   end
 
 
@@ -17,4 +17,4 @@ def oxford_comma(array)
 
 end
 
-p oxford_comma(%w(apple pear banana))
+p oxford_comma(%w(apple pear banana fruit))
