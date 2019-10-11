@@ -7,7 +7,7 @@ def oxford_comma(array)
     puts "Testing"
   end
 
-  
-    
-    
+
+
+
 end
