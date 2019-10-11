@@ -17,4 +17,4 @@ def oxford_comma(array)
 
 end
 
-p oxford_comma(%w(apple pear banana fruit))
+p oxford_comma(%w(apple pear banana cherries fruit))
